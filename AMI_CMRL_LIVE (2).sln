@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AMI_CMRL_LIVE", "F:\DD_User\Priyam Kumar\ProjectSource\AMI_CMRL_LIVE\", "{3B1EE508-C8DA-4D1D-BCC6-F11F9DCF7336}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/AMI_CMRL_LIVE"
+		Debug.AspNetCompiler.PhysicalPath = "F:\DD_User\Priyam Kumar\ProjectSource\AMI_CMRL_LIVE\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\AMI_CMRL_LIVE\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/AMI_CMRL_LIVE"
+		Release.AspNetCompiler.PhysicalPath = "F:\DD_User\Priyam Kumar\ProjectSource\AMI_CMRL_LIVE\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\AMI_CMRL_LIVE\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56406"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B1EE508-C8DA-4D1D-BCC6-F11F9DCF7336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1EE508-C8DA-4D1D-BCC6-F11F9DCF7336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
